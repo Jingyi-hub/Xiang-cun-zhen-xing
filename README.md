@@ -1,1 +1,3 @@
-# Xiang-cun-zhen-xing
+# Rural Revitalization Showcase
+
+Static site for GitHub Pages.
